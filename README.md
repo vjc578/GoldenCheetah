@@ -21,6 +21,8 @@ INSTALL-LINUX   For building on Linux
 
 INSTALL-MAC     For building on Apple OS X
 
+Test
+
 
 macOS and Linux: [![Build Status](https://app.travis-ci.com/GoldenCheetah/GoldenCheetah.svg?branch=master)](https://app.travis-ci.com/GoldenCheetah/GoldenCheetah)
 
